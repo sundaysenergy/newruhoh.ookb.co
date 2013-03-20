@@ -1,13 +1,16 @@
-title : Blog Title
-tagline: Blog Tagline
+title : The Office of Kristian Bjørnard
+tagline: A Baltimore based boutique design studio specializing in publishing in all its forms.
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Kristian Bjørnard
+  email : kb@ookb.co
+  github : bjornmeansbear
+  twitter : bjornmeansbear
+  feedburner : 
 
 navigation :
+  - notes.html
+  - work.html
+  - contact.html
   - archive.html
   - tags.html
   - categories.html
