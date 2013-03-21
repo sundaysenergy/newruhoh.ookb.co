@@ -19,7 +19,7 @@ production_url: "http://newruhoh.ookb.co"
 base_path: "/"
 
 theme:
-  name: "twitter"
+  name: "newookb"
 
 posts:
   permalink: "/:categories/:title/"

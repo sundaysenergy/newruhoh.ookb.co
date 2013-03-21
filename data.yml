@@ -10,7 +10,8 @@ author :
 navigation :
   - notes.html
   - work.html
-  - contact.html
+  - contact.md
+  - profile.md
   - archive.html
   - tags.html
   - categories.html
